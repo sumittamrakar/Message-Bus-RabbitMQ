@@ -1,0 +1,9 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\rabbitmq_receive",
+    "\\rabbitmq_send"
+  ],
+  "SelectedNode": "\\rabbitmq_send\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}

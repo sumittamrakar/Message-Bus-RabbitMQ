@@ -3,7 +3,6 @@ C:\Users\stamusb2\source\repos\RabbitMQ\rabbitmq1\rabbitmq_receive\bin\Debug\net
 C:\Users\stamusb2\source\repos\RabbitMQ\rabbitmq1\rabbitmq_receive\bin\Debug\netcoreapp2.2\rabbitmq_receive.runtimeconfig.dev.json
 C:\Users\stamusb2\source\repos\RabbitMQ\rabbitmq1\rabbitmq_receive\bin\Debug\netcoreapp2.2\rabbitmq_receive.dll
 C:\Users\stamusb2\source\repos\RabbitMQ\rabbitmq1\rabbitmq_receive\bin\Debug\netcoreapp2.2\rabbitmq_receive.pdb
-C:\Users\stamusb2\source\repos\RabbitMQ\rabbitmq1\rabbitmq_receive\obj\Debug\netcoreapp2.2\rabbitmq_receive.csprojAssemblyReference.cache
 C:\Users\stamusb2\source\repos\RabbitMQ\rabbitmq1\rabbitmq_receive\obj\Debug\netcoreapp2.2\rabbitmq_receive.csproj.CoreCompileInputs.cache
 C:\Users\stamusb2\source\repos\RabbitMQ\rabbitmq1\rabbitmq_receive\obj\Debug\netcoreapp2.2\rabbitmq_receive.AssemblyInfoInputs.cache
 C:\Users\stamusb2\source\repos\RabbitMQ\rabbitmq1\rabbitmq_receive\obj\Debug\netcoreapp2.2\rabbitmq_receive.AssemblyInfo.cs
